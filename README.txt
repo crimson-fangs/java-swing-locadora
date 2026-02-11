@@ -22,8 +22,8 @@ Desenvolvedor:
 
 Kauany Eloy (https://github.com/crimson-fangs)
 
-Data de Finalização: 10/12/2025 
 
 //
 
 Orientador: Prof. Mário Popolin
+Data de Finalização: 10/12/2025 
