@@ -1,6 +1,6 @@
 Locadora
 
-Projeto acadêmico solo desenvolvido em Java Swing para a disciplina de Programação no IFSP.
+Projeto acadêmico solo desenvolvido em Java Swing para a disciplina de introdução a programação orientada a objetos no IFSP.
 O sistema simula uma locadora versátil com catálogo visual e lógica de soma de valores.
 
 Como Funciona:
@@ -26,4 +26,4 @@ Data de Finalização: 10/12/2025
 
 //
 
-Orientador: Prof. Mário Popollin
+Orientador: Prof. Mário Popolin
