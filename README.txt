@@ -11,17 +11,6 @@ Sistema de Aluguel: Ao clicar em Alugar, o item é adicionado à conta.
 Caixa: Exibe a soma total dos produtos selecionados.
 Pagamento: Opção de pagar que finaliza a transação e esvazia o carrinho.
 
-Tecnologias Utilizadas
-
-Java SE: Linguagem principal.
-Java Swing: Criação da interface gráfica (janelas e botões).
-AWT: Gerenciamento de eventos de cliques.
-Imagens: Interface ilustrada com capas e ícones de cada categoria.
-
-Desenvolvedor: 
-
-Kauany Eloy (https://github.com/crimson-fangs)
-
 
 //
 
